@@ -1,0 +1,17 @@
+*~
+*.pyc
+*.pyo
+
+.DS_Store
+._*
+*.sublime-workspace
+*.swo
+*.swp
+
+*.egg-info
+*.egg
+virtual/
+dist/
+build/
+
+config.json
